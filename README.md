@@ -11,7 +11,7 @@ My name is Cristian, I am 24 years old and I am from Puerto Cisnes, a small town
 myFav = {
     'Code'      : ['HTML', 'CSS', 'JAVA', 'PYTHON', 'PHP', 'R'],
     'SGBD'      : ['MySQL', 'SQLite', 'PostgreSQL'],
-    'Framework' : ['Django']
+    'Framework' : ['Django', 'Tailwind', 'React']
 }
 ```
 
