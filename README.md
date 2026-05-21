@@ -1,5 +1,3 @@
-<div align="center">
-
 ```typescript
 const cristian = {
   name: "Cristian Soto Mancilla",
@@ -9,8 +7,6 @@ const cristian = {
   focus: "Plataformas web y sistemas a medida para empresas",
 }
 ```
-
-</div>
 
 ---
 
