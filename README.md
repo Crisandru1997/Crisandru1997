@@ -12,9 +12,11 @@ const cristian = {
 
 ### Sobre mí
 
-Me llamo Cristian, soy de Puerto Cisnes y vivo en Concepción. Soy Ingeniero en Informática y simplemente me gusta crear cosas — páginas, sistemas, herramientas, lo que sea. Fundé **[CristianDev](https://cristiandev.cl)** porque construir soluciones reales para negocios reales es lo que más disfruto hacer.
+Ingeniero en Informática con base en Concepción, Chile. Me dedico a convertir ideas en productos digitales — desde una landing que convierte hasta un sistema que reemplaza horas de trabajo manual.
 
-No busco trabajo. Solo sigo construyendo.
+Fundé **[CristianDev](https://cristiandev.cl)** para llevar software bien hecho a empresas que lo merecen. Trabajo con stack moderno, entrego con soporte real y construyo cosas que duran.
+
+> *Código limpio, resultados concretos.*
 
 ---
 
