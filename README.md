@@ -12,9 +12,9 @@ const cristian = {
 
 ### Sobre mí
 
-Ingeniero en Informática especializado en desarrollo full stack. Fundé **[CristianDev](https://cristiandev.cl)** con una convicción: que las PyMEs chilenas merecen el mismo nivel de software que las grandes corporaciones, con trato directo y sin letra chica.
+Me llamo Cristian, soy de Puerto Cisnes y vivo en Concepción. Soy Ingeniero en Informática y simplemente me gusta crear cosas — páginas, sistemas, herramientas, lo que sea. Fundé **[CristianDev](https://cristiandev.cl)** porque construir soluciones reales para negocios reales es lo que más disfruto hacer.
 
-En la era de la IA, mi valor no está en escribir código — está en **entender el problema del negocio, diseñar la arquitectura correcta y entregar soluciones que realmente funcionen**.
+No busco trabajo. Solo sigo construyendo.
 
 ---
 
@@ -41,10 +41,6 @@ En la era de la IA, mi valor no está en escribir código — está en **entende
 ### Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Crisandru1997&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crisandru1997&layout=compact&theme=github_dark&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Crisandru1997&theme=github-dark-blue&hide_border=true)
 
